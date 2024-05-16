@@ -30,7 +30,3 @@ O projeto usa a API de taxas de câmbio do ExchangeRate-API. Você precisará de
 
 - Este projeto é apenas para fins educacionais e de demonstração.
 - Certifique-se de que você está em conformidade com os termos de uso da API de taxas de câmbio ao usar este código em produção.
-
----
-
-Você pode adicionar mais detalhes conforme necessário, como instruções de instalação, contribuição, licença, etc. Certifique-se de personalizar o README de acordo com as necessidades específicas do seu projeto e da comunidade que você deseja alcançar.
